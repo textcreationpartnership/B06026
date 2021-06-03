@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prince of Tartaria his voyage to Cowper in Fife. He that will to Cowper, will to Cowper.</title>
+            <author>St. Serfe, Thomas, Sir, fl. 1668</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06026</idno><idno type="EEBO-CITATION">51784676</idno>
+  <idno type="VID">175078</idno>
+  <idno type="EEBO-PROQUEST">2240898538</idno>
+  
+            <idno type="STC">Wing S6321B</idno>
+            <idno type="STC">ESTC T197526</idno>
+            <idno type="OCLC">51784676</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B06026)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175078)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2711:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prince of Tartaria his voyage to Cowper in Fife. He that will to Cowper, will to Cowper.</title>
+                  <author>St. Serfe, Thomas, Sir, fl. 1668</author>
+               </titleStmt>
+               <extent>[2], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attribution from Wing (2nd ed.).</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Manuscript notes on p. [1], faded and somewhat illegible.</note>
+                  <note>Imperfect: dark, print show-through, with some loss of text.</note>
+                  <note>Satire in the form of a news-letter, concerning a horse race. Cf. National Library of Scotland.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Horse racing --  Scotland --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb facs="tcp:175078:1"/>
+            <p>
+               <figure>
+                  <figDesc>insignia</figDesc>
+                  <p>HONI SOIT MAL Y PENSE</p>
+               </figure>
+            </p>
+            <pb facs="tcp:175078:1"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:175078:2"/>
+            <pb n="1" facs="tcp:175078:2"/>
+            <head>The Prince of TARTARIA his Voyage to <hi>Cowper</hi> in <hi>Fîfe. He that will to</hi> Cowper, <hi>will to</hi> Cowper.</head>
+            <p>IT was about that time in the morning when the mortals of this side of the <hi>Aequinectial</hi> Line, are accustomed to Satis<g ref="char:EOLhyphen"/>fie their <hi>Gusto</hi> in refreshing <hi>Nature</hi> by frequent Oscitation and Pandiculation to their Members; Surfeit with toil, and Disgorging from their Nauseating Ventricle by Eructation, the Crudity's Engendered there through their painful and La<g ref="char:EOLhyphen"/>borious Carousing; and what is wanting that way,<note place="margin">
+                  <hi>Viz.</hi> When Carles &amp; queens Gants Rifts and farts be<g ref="char:EOLhyphen"/>fore they come out of their Beds.</note> their roaring <hi>Borborygius</hi> declareth by another in a very sensible way of breathing: This was the time, I say, when the magnificent and much expected Prince of <hi>Tartary, Tomambeio Dionigi Cuoulato Pazzeio</hi> with his numerous Fleet of 3000. <hi>Gundolo's</hi> was discover<g ref="char:EOLhyphen"/>ed as they wantonly coasted along the South Shoar of the <hi>Forth,</hi> with the benefit of <hi>St. Abb's</hi> blessing; this jocund and secure Joviality was on a sudden changed through the indescreit Steerage of their Vice-Admiral, who spent his Boltspreet on a <hi>Soling goose</hi>-nest in that famous Island, or rather Rock of the <hi>Basse;</hi> this did so Alarm that plumed Carrion that it was wonderful to see with what fiercenesse and resolution the keck<g ref="char:EOLhyphen"/>ling Militia assaulted the <hi>Tartarian</hi> Fleet, and in a very incon<g ref="char:EOLhyphen"/>siderable space they boorded and were Conquerours of the whole, except of that in which the Prince himself was with my self, who by flight (surpassing that of the <hi>Geese</hi>) gained the Haven of <hi>Cockany.</hi> These insolent Birds who by this time cer<g ref="char:EOLhyphen"/>tainly are vapouring in their Gowns, spacious turbants and tyara's to fortifie themselves against the like Mumchance, staved the whole Vessels, therewith to erect their Domicils with couplins and Rafters: The Prince with his small retinue left him, found a more Hospitable reception by the Consuls
+<pb n="2" facs="tcp:175078:3"/> Tribuns of the mentioned City, who came to understand this designe, and resolution for celebrating of these Solemnities at <hi>Cowper</hi> Race, this they understood partly through the Advertisement given them by the <hi>Caledonius,</hi> partly through the interperation of a Levite amongest them to whom all Languages were indifferent, except that of his mothers. Every one laboured to cheer up this disconsolate and dejected Prince, and according to their own fashion treated him with all sorts and sizes of <hi>Mussesles, Cockell'os, Spouteios, Limpettos, Linogustos, Clamos, Buccas,</hi> and all of them decently with their own naturall condiments; Others would have presented him with <hi>Scarts, Scouts Buccas,</hi> and <hi>Kitty-wak's,</hi> at the sight of which, his kind heart qualmed, modestly refusing them, alleadging they were descended of these boodly Islanders who had destroyed his Fleet His Highnesse pressed much his departure, and the on they other side urged extreamly his abode amongest them till <hi>September,</hi> that he might see hemself fully revenged on his enimies by the prowes and activity of <hi>Grall, Thom Gosh</hi> and others his Mirmidons, famous amongst the Poultriers of <hi>Edina;</hi> it is at that season the War constantly commences 'twixt these two parties, seldom the General misseth to banish whom he hath not seized on (and these are whole Congregations) to the <hi>Indies,</hi> notwithstanding of their revengefull allurements, his circum<g ref="char:EOLhyphen"/>cized Hignesse was more ambitious to prosecute his progresse then have seen any these unctious animals massacred. The next day which was that he used to worship on, he desired to know of the Oricles of the Countrey to avoid scandale, and accordingly with a <hi>Machumetan</hi> gravity had the patience to lend his Lugs to the out-runing of two Glas<g ref="char:EOLhyphen"/>ses, with their respective Appendixes: By this time he had learned that the day following was called <hi>Monday,</hi> on which day he might travell securly, but could not be suffered to go till he had break-fast with Car-cakes and Pattylow's, and recived the courtsiee of being creat Burgesse and Gild<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>brother, all which being orderly done, he was pro<g ref="char:EOLhyphen"/>vided with a covenant Convoy and Trench men to compleat his Fife<g ref="char:EOLhyphen"/>an pilgrimage, the <hi>Eschevins</hi> conducting him to the City-gates where their Recorder in a grave phlegmatick Speech bid him, heatrily farewel: Our first halt was at the three Tuns in <hi>Letha</hi> where having spent asmall time in fortifying our Tabernacles.
+<pb n="3" facs="tcp:175078:3"/> against the marine Exhalations, which useth to Trouble Squeamish Stomachs, we imbarqued in that antient and new Bottom, formerly known by its Owner Captain <hi>Watson,</hi> but now under the Command of Admiral <hi>John Cray;</hi> This is the Vessel that Rescued <hi>Don Juon</hi> of <hi>Au<g ref="char:EOLhyphen"/>stria,</hi> at the Battle of <hi>Lepanto,</hi> when twelve bloody <hi>Bashaw</hi>'s with their Gallies had Grapled with him, and yet their Anteillery was no other but Six old pumps, and two on fixt Muskets: The inevitable Necessity in observing the Tydes dyet, obstructed the Entertainment appointed for us by the <hi>Litheians.</hi> We had a pleasant Topsail-drow, from the South-east, which is less then half a Glasse running, made us bring the Stones to the score, so that we left speedily <hi>Inch-keith,</hi> upon our weather quarter; This islet (as we learned from our Co passengers) is Fa<g ref="char:EOLhyphen"/>mous for Fatning of Bestial, and most Convenient for Clandestine Coyn, the clink of the Hammer hardly to be heard on either shore: But this being a divertisement for such <hi>Virtuosie,</hi> as spends their Estates to learn to leave on their Wits, its consideration we leave with them, if there be any itch in their Neck, and thus they my Try it: In ano<g ref="char:EOLhyphen"/>ther half Glasse our Waftage termined at <hi>Burtisland;</hi> this same Town is as <hi>Joppa</hi> to <hi>Jerusalem,</hi> the constant place of Arrival of such as are desire<g ref="char:EOLhyphen"/>ous either to be cured by the wholsome Waters of the <hi>Spaw,</hi> nigh <hi>Kingborn,</hi> or who are curious to hear the ambiguous Responces of the <hi>Athenian</hi> Hocus; Our Treatment here was conform to the Season and Countrey modd, Bisks and Olio's of the choisest pullaile; <hi>John Gibb</hi> the Stall-master of the place (else where known by the name of Post-master) addressed himself to the Prince, with such Civilities, as are not ordinary to Hackney Superintendants, and furnished us Horses, appearing in View like <hi>Greenland</hi> Bucks in <hi>December,</hi> yet indeed swift as the Buffolo's in <hi>Lombardie,</hi> who are said to be begot by a <hi>Siroco.</hi> We held on our course towards <hi>Kingborn,</hi> resolving to view the <hi>Spaw,</hi> so re<g ref="char:EOLhyphen"/>nowned for its prolifick, Qualities, and so Traversed two Miles of Sands, as fertile with the wanton Shel fish, as formerly <hi>Egypt</hi> was of Locusts: The Fountain Discovered it self under most pleasant and beautiful Rocks, where Nature displayed her self in her Richest furni<g ref="char:EOLhyphen"/>ture of her pearled Shels in several grotes, some of which even in our sight dropping off the most precious and well informed pearls, as ever the place produced, which moved his <hi>Tartarian</hi> Highness to confess, that what for its <hi>Cascato's,</hi> and what for <hi>Crotesco's,</hi> it is exceeded far
+<pb n="4" facs="tcp:175078:4"/> any he had ever seen in <hi>Europe.</hi> In the fountain it self, <hi>Neptune</hi> hath been often seen (as the Countrey people confidently affirmeth) to have been boyling Lobstars, and Crabs at <hi>Christmass</hi> Eve, and with no other fire, than the heat of the Sun, through situate in the 56 de<g ref="char:EOLhyphen"/>gree of Latitude. The Fountain springs from the Earth in a straight Line, it reacheth the <hi>Antipodes:</hi> And why? say they, because it Ebbs and Flowes like the Sea; That when the Tyde runs from this Hemisphere to them, than by a Violent motion, it is re<g ref="char:EOLhyphen"/>turned in a full Tyde to us: They say mote, that the mouth of the Conduit, from whence the Water guished, hath its <hi>Incrementa</hi> and <hi>Decrementa</hi> like to the Moon, only differing in the Variation o its figures, as Circle, Oval, Tozenge, Obtuse, Sharpe, Triangle, Regular; Pentagon, Hexagon, and Octagon, <hi>&amp;c.</hi> They said more that there were a <hi>Jure Divino</hi> amongst them, and he no small Doubt spear, who concluded that it was one of the <hi>Quatuor Coluri,</hi> but to tell Truth this Companion ended, when we for two hours Contemplared this pleasant Fountain with its promontary, we came to <hi>Kingborn,</hi> a place for its Situation not unlike that of <hi>Lisbon,</hi> as to the Valeys and Hills Circumjacent, but indeed the <hi>Indian</hi> Ad<g ref="char:EOLhyphen"/>venturers Buildings, there come short of the Palaces of the Bait ga<g ref="char:EOLhyphen"/>therers here: After we had Solaced our selves in the Survey of their Universities, and other their Nurceries of Fish learning, we set one to <hi>Kirkealdie,</hi> a Town eminent for Navigation, and on that consideration, our <hi>Parthian Heroes,</hi> would that the Travelling inhabi<g ref="char:EOLhyphen"/>tants of the City, should at the first View, understand by his Habite and Garb, for hitherto he had been cloathed in the Countrey fashion) what his Territories and Dignities were, and instantly the Master of the Wardrope being advertised, produced the Robes, Vestments of the great <hi>Arsacides,</hi> for Triming up our Adventurer: Under his twilted Gown of a tawny colour, he had a Shirt of War, or coat of Male, compos<g ref="char:EOLhyphen"/>ed of several complexioned Stones, in Mosaical work, representing by Figurs in a Historicall way all the Heroical Atchievements and amo<g ref="char:EOLhyphen"/>rous Adventures of his Progenitors, by his side the Cimater of the great <hi>Tamberlin,</hi> which for its Sharpness, is a Merciful Account in the Schock of Battell, can raze and Circumcise Beards, without Anoying the Flesh by Phlebotomy, He had the Bow of the great <hi>Nimrod,</hi> which
+<pb n="5" facs="tcp:175078:4"/> with Bolts was accustomed to kill Dottrels, Begfigs, and Wood Cocks, for the Entertainment of his sporting Ladies: His head was cover<g ref="char:EOLhyphen"/>ed with a black Velvet Cap, doubled with a Parcel of the Fort of the same Gowns that belonged to these Trepaning Elders, who would have Top't the fair and chaste <hi>Susanna.</hi>
+            </p>
+            <p>In this order passing through the Town, we perceived some Lady's in Discontent, that they had not been Timously acquainted of the <hi>Cavale<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>do,</hi> that according to their custome in such sort of welcoming strangers, they had not saluted us with their perfumed water of Roses, Jasmin and Oranges; But to make up that mischance, they served themselves of the readiest; and very decently with their Syringers, Jyrted us with the Odoriferous flavour of Sketbroth, which occasioned us to hasten to the Towns end, where there is a Rinulet famous for the Resort of some Sturdy and Boysterous <hi>Nymps</hi> who uses to Recreate themselves there, and it seems that they had Notice of our passing that way; For suddenly at our approach; they Started the threesome Reel, consisting of Sixteen, all cast in Couples, each Couples being placed in a large Tub, or independent Pulpit, having their Garments Tuckt up to the height of the <hi>Baltywhang:</hi> Here was old Whisking and Skelping, and the better to keep Cadence to their Levalto's, the palms of their hands, were imployed for Castanietto's, which made more Nimble whitherings on their Breeches, then Drum-sticks at the Dian. But our Chaplain fearing such objects, might swell his highness Concupis<g ref="char:EOLhyphen"/>cence, hastened us to the <hi>Path head,</hi> but more renowned by the Names of <hi>Hirpletilbin</hi> or <hi>Pickltilhim:</hi> It is a received custome of the inhabitants of this place, to geld all those who laughs at the Go<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g, and Greets at the <hi>&amp;c.</hi> Our passage through this Town, was no otherwise welcomed, then that of those who are inquisitive of its Name, all these Belchings our Prince taking for jovial acclamations. Not far from this Town stands on a high Rock, the Castle of <hi>Ravenshough,</hi> which before the War was renowned for Hospitality and Good fellowship, but now a Receptacle for <hi>Pitcaples</hi> Angels, here they shew as the Vestige of a Furnace which Blew up Culverins, Secars and Drakes our of Cordevant Gloves: Nigh to this is the Excellent Spring called <hi>Vyne-Weel.</hi> of which all of us drank, One of the Company who had formerly been well acquainted with it, affirmed that nothing was comparable to it in curing habitual fevers, occasioned through drowth, and heat of the Liver, and that he himself had had frequent experi<g ref="char:EOLhyphen"/>ence
+<pb n="6" facs="tcp:175078:5"/> thereof. Hence we advanced to <hi>Dysart,</hi> a place well known for its great Trade of Sea, Coal and Salt; and truth it is that the Mines of the one, and Alembicks of the other are more happy in their produc<g ref="char:EOLhyphen"/>tions then most of thei<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Neighbours: Here we contemplate the Beauty of the Vestals who are devoted to serve their Mother the Earth, by Ridding her Bowels of the black stone, they are still in Meditation of Heaven or Hell, as they ascend and descend. On our way towards the <hi>Weems,</hi> we took nottice of the Flewry verdant Banks, where we found <hi>Thestylis</hi> the Goddess of Hucksters, occupied in Ramassing of Nettles, who told us they were to serve for the Wedding feast of one of the Aldermans daughters of <hi>Buck-haven,</hi> this news made us make hast toithe place, and so we passed the <hi>Weems,</hi> that we might the soon<g ref="char:EOLhyphen"/>er partcipat of the Solemnities of so glorious a consummation: The Brides here in all Ages having been crackt for their behaviour, our arrival was one hour ere <hi>Phaebus</hi> hot nodled steeds took stable, so we had time enough to survey the cunning situation and fortification of the place, equall to any other of the World: It lyes under the Brow of a steep Brack, so that it is unaccessible towards the Land, without hazard of Necky<hi>'s:</hi> The Sea Guards the other side, the passages at either end are shut up with a Crosse Cart, which done, the Citizens sleeps securely unless you Allarm them with Souldiers. Our Recepti<g ref="char:EOLhyphen"/>on was splendid, the whole Senate accompanying us in their Robes, which themselves in Modesty Term Bilfangls, not unlike to the Gowns with Velvet necks: And yet this Senate because they have Couls and Robes of the Gray-boddin, they plead them to be more Apostolick then these of the Bombacee. The Town Recorder was very full in a Speech, wherein he shew that the <hi>Arsacides</hi> our Princes Progenitors, had many obligations to their City, that in Thank<g ref="char:EOLhyphen"/>fulness, their City might have the Education of their young Princes, he minding him that when the <hi>Parthians</hi> were likely to be subdued by the <hi>Romans,</hi> that their then Admiral <hi>Davy Downy</hi> relieved them with a Fleet of Oyster-Dreggers: They again when the <hi>Termi<g ref="char:EOLhyphen"/>grants</hi> of the South Coast would have made Invasion on their Fish Territories, that then they were alwise supplied with Lanciers, strong<g ref="char:EOLhyphen"/>ly mounted on Grashoppers from <hi>Caramania:</hi> Thus he shew the mu<g ref="char:EOLhyphen"/>tual amity and League twixt the Republique and the <hi>Parthian</hi> Empire. Thus done, we were brought to their Colledge, where we saw the works of the great <hi>Magii,</hi> who treats of all the several Baits for catch<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:175078:5"/> Fish, from the Whyting to the Whale, from the Wilk to the Lobstar; here we see their Printing-house, wherein there is now at the Presse, a rare piece of Blew-apron Divinity in Rhyme, we had not permission to read it all, but certainly it is Roguish, as you may judge by the Argument, to the Tune of <hi>the Old Broom,</hi> &amp;c.</p>
+            <q>
+               <l>Sing to the praise of Sir <hi>John</hi> the Hymne,</l>
+               <l>Of jouk <hi>John Walker</hi> for thus it doth begin,</l>
+               <l>Of all Religions great and small,</l>
+               <l>
+                  <hi>Cum fueris Romae</hi> is best of all.</l>
+            </q>
+            <p>Hence we went to their <hi>Arsenal,</hi> plentifully provided with Hooks Nets, Corks, Leads, Plowters, Creels, and all inventions for ensnar<g ref="char:EOLhyphen"/>ing the Citizens of the Sea. At length we returned to the Bride, whos: entertainment was stately, of Dudds, Leydocks, Carlins, Orgements and Crowdy-moudy, the Musick was ratling of Shells of all sorts, Flute of Lobstar claws, Dulcimers of Partan bodies, and the Lochq<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hab<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es Organ, which is a Charming cluttering of two Beef ribs and a Hauks Bell, with a nimble agitation of the fingers: The Bride and her Vir<g ref="char:EOLhyphen"/>gins which were of the profession of Dulse-gatherers, had many excel<g ref="char:EOLhyphen"/>lent murgeons with their Gallants; But the frequentest of all their Pavy's, was, the hooking on of Smacks on others Gobs, till their lips turned blew and parched: The hymaenial hour being nigh, the Bride begun to grin and claw her Elbow, a sign as we took it, to repair to our Lodgings, which accordingly we did, and found our Beds at the <hi>Arsenal</hi> well, composed of the strongest Harrows, and Linniged with with the finest Nets. The next morning which we longed much for, having given seeming thanks, we left our <hi>Foay</hi> (you may guesse what it was) for Drink Money, a <hi>Geordy,</hi> each under his own Pillow. We mounted for <hi>Cowper,</hi> where we arrived the night before the great Race, our entertainment there was so substantial, that I dare not mention the reality of it, lest I should seem to Romantize the Nobility, Gentry and Burgers, every one striving who should out do one another in welcoming the Prince. The next day the hour of Solemnity being come, the Court fenced in the Right Honourable the Lord Provost's name and all ceremonies duely performed, the two Horses which were to carry on the Work (the one of Noble <hi>Eliot,</hi> the other of Stout <hi>Murray</hi> brother to the Barron of <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> were led forth to the Score in Pomp, their Rider attended with the Friends of their Respective Patrons, attending them in a most decent and comely order: It was
+<pb n="8" facs="tcp:175078:6"/> observable to see the difference of the Riders, both of them most expert Horsemen; For <hi>John Ho<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>me</hi> (mentioned sometime by <hi>Calidonius</hi>) hath such a close seat, as one would take him to be a part of the Horse: The other <hi>Jamy Hall,</hi> so Laborious, that if the horse have any Spirits, he will not fail to send them to his Heels: Being started, they began to flie, and performed their work of six Miles in twelve Minutes, one amongst the Company confidently affirmed, that they made but 26 strokes in the whole course, which I believe, hardly it was carried by Mr. <hi>Murray's</hi> horse by two horse length: The prize was a sumptuous and large Cup of a great value, which with its Cover (for it was fa<g ref="char:EOLhyphen"/>shioned like a Bedpan) sufficient to Tozie a Dozen of <hi>Belgick Virtuosi.</hi>
+            </p>
+            <p>The Race of the following day for a Cup of half the proportion of the other, bestowed <hi>gratis</hi> by the Towns heritable Provost, the Noble Earl, and was carried by a Barb of the Baron.</p>
+            <p>The third Race for a Sadle of five pound <hi>Sterling</hi> gained by a horse of Mr. <hi>Erskine</hi> Brother to the Noble constantly Loyal <hi>Hero;</hi> This horse though of 28 years of Age, and had known and experienced horses of the Game against him, yet carried the Prize with a high Train. We cannot omit to shew, that during the time of the Usurper, he concealed his abilities as to speed, lest he might have been imploy<g ref="char:EOLhyphen"/>ed in service against his <hi>Majesty;</hi> as also since <hi>May</hi> 29 last, new Teeth hath sprung in place of the Old ones, so that now he may well pass for a four year old: This was the last day of this Years <hi>Olympiad</hi> at <hi>Cowper</hi> in <hi>Fife,</hi> which Town shew well who was their Patron by their Hospi<g ref="char:EOLhyphen"/>tality to Strangers, celebrate in the highest measure. All these sportful recreations were carried on by a most pleasant harmony, and a behaviour free of all contests and contradictions, that as I Learned the Mute <hi>Caledonius</hi> who was appointed there as a Judge, had this re<g ref="char:EOLhyphen"/>mark, that he had heard many Cracks and no Oaths, save in one inconsiderable <hi>Remonstator</hi> P<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap>per of the Land of <hi>Whigmeria.</hi>
+            </p>
+            <p>Our Parthian Prince being highly satisfied with all that passed, dis<g ref="char:EOLhyphen"/>missed the <hi>Cockany</hi> Convoy, gifting every one of them with a <hi>Topaz</hi> of the Bigness of a Sows Egg, and not far from colour. What enter<g ref="char:EOLhyphen"/>tainment be meets withall as he goes further North we shall give an Account of, if we receive from the <hi>Tyfeans</hi> who undertook his Couvoy and Guide.</p>
+            <p>In the last <hi>Advertisement</hi> there was a mistake of <hi>Haddingtown</hi> Race, for it is upon the 21. of <hi>May</hi> next.</p>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:175078:6"/>
+            <pb facs="tcp:175078:7"/>
+            <pb facs="tcp:175078:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
